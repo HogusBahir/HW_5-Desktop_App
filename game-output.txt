@@ -1,0 +1,8 @@
+[31mSorry! Your response is empty![39m
+[31mSorry! That's above the maximum threshold![39m
+[31mThat's not even a number![39m
+[31m[39m
+[31mGAME OVER![39m
+The secret number was 3.
+
+[35mThanks for playing![39m
